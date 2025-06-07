@@ -13,8 +13,12 @@ sites:
     url: https://adit.kak.si/
   - name: Portfolio 2
     url: https://adit.zone.id/
-  - name: Portfolio 2
-    url: https://adit.zone.id/
+  - name: v2
+    url: http://berkah32.my.id/
+  - name: bonus
+    url: https://ryuxyro.my.id
+  - name: my upptime
+    url: https://kazuoid.github.io/upptime/
  # - name: Portfolio 2
    # url: https://adit.zone.id/
 
