@@ -7,16 +7,18 @@ sites:
     url: https://adit.h4ck.me/linktree/
   - name: Portfolio 1
     url: https://adit.h4ck.me/portfolio/
-  - name: v1
+  - name: v1 (blank)
     url: https://adit.is-a-good.dev/
   - name: MovaLery
     url: https://adit.kak.si/
   - name: Portfolio 2
     url: https://adit.zone.id/
-  - name: v2
+  - name: v2 (blank)
     url: http://berkah32.my.id/
   - name: bonus
     url: https://www.ryuxyro.my.id
+  - name: v3 (blank)
+    url: movaware.my.id
   - name: 3D Object testing
     url: https://kazuoid.github.io/3d-obj/
   - name: my upptime
