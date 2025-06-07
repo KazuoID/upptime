@@ -17,6 +17,8 @@ sites:
     url: http://berkah32.my.id/
   - name: bonus
     url: https://www.ryuxyro.my.id
+  - name: 3D Object testing
+    url: https://kazuoid.github.io/3d-obj/
   - name: my upptime
     url: https://kazuoid.github.io/upptime/
  # - name: Portfolio 2
