@@ -5,24 +5,26 @@ repo: upptime # The name of this repository
 sites:
   - name: LinkTree
     url: https://adit.h4ck.me/linktree/
+  - name: MovaLery (MovaWare Gallery)
+    url: https://adit.kak.si/
+  - name: 3D Object testing
+    url: https://kazuoid.github.io/3d-obj/
   - name: Portfolio 1
     url: https://adit.h4ck.me/portfolio/
-  - name: v1 (blank)
-    url: https://adit.is-a-good.dev/
-  - name: MovaLery
-    url: https://adit.kak.si/
   - name: Portfolio 2
     url: https://adit.zone.id/
-  - name: v2 (blank)
-    url: http://berkah32.my.id/
   - name: bonus
     url: https://www.ryuxyro.my.id
+  - name: v1 (blank)
+    url: https://adit.is-a-good.dev/
+  - name: v2 (blank)
+    url: http://berkah32.my.id/
   - name: v3 (blank)
     url: https://movaware.my.id
   - name: v4 (blank)
     url: http://exemova.xyz
-  - name: 3D Object testing
-    url: https://kazuoid.github.io/3d-obj/
+  - name: v5 (blank)
+    url: http://epizy.my.id
   - name: my upptime
     url: https://kazuoid.github.io/upptime/
  # - name: Portfolio 2
