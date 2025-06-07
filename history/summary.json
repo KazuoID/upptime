@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/berkah32.my.id.ico",
     "slug": "v2",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 2
+      "2025-06-07": 3
     }
   },
   {
@@ -115,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ryuxyro.my.id.ico",
     "slug": "bonus",
     "status": "up",
-    "uptime": "3.36%",
-    "uptimeDay": "3.36%",
-    "uptimeWeek": "3.36%",
-    "uptimeMonth": "3.36%",
-    "uptimeYear": "3.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 289,
     "timeWeek": 289,
     "timeMonth": 289,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2025-06-07": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "my upptime",
