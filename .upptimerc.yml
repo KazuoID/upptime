@@ -3,7 +3,9 @@ owner: KazuoID # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: LinkTree
+  - name: LinkTree v1
+    url: https://my-list-one.vercel.app/
+  - name: LinkTree v2
     url: https://adit.h4ck.me/linktree/
   - name: MovaLery (MovaWare Gallery)
     url: https://adit.kak.si/
@@ -13,6 +15,12 @@ sites:
     url: https://cloud.ryuxyro.workers.dev/
   - name: Moe Counting
     url: https://moe-count.glitch.me/
+  - name: Encyrpt Language
+    url: https://encyrpt-language.vercel.app/
+  - name: Hash Tools
+    url: https://hash-tools.vercel.app/
+  - name: Google Drive Enc
+    url: https://ryuxyro.github.io/rxgd-efc/
   - name: Portfolio 1
     url: https://adit.h4ck.me/portfolio/
   - name: Portfolio 2
@@ -50,9 +58,9 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub Source
+    - title: Source
       href: https://github.com/$OWNER/$REPO
-    - title: GitHub Owner
+    - title: Owner
       href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
