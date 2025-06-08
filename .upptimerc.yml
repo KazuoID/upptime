@@ -9,6 +9,10 @@ sites:
     url: https://adit.kak.si/
   - name: 3D Object testing
     url: https://kazuoid.github.io/3d-obj/
+  - name: Cloud Service
+    url: https://cloud.ryuxyro.workers.dev/
+  - name: Moe Counting
+    url: https://moe-count.glitch.me/
   - name: Portfolio 1
     url: https://adit.h4ck.me/portfolio/
   - name: Portfolio 2
@@ -25,8 +29,12 @@ sites:
     url: http://exemova.xyz
   - name: v5 (blank)
     url: http://epizy.my.id
-  - name: my upptime
+  - name: v6 (blank)
+    url: http://kazuoyuuka.xyz/
+  - name: upptime 1
     url: https://kazuoid.github.io/upptime/
+  - name: upptime 2
+    url: https://ryuxyro.github.io/status/
  # - name: Portfolio 2
    # url: https://adit.zone.id/
 
