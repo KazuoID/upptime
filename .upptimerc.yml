@@ -11,8 +11,10 @@ sites:
     url: https://adit.kak.si/
   - name: 3D Object testing
     url: https://kazuoid.github.io/3d-obj/
-  - name: Cloud Service
+  - name: Cloud Service v1
     url: https://cloud.ryuxyro.workers.dev/
+  - name: Cloud Service v2
+    url: https://cloud2.ryuxyro.workers.dev/
   - name: Moe Counting
     url: https://moe-count.glitch.me/
   - name: Encyrpt Language
@@ -21,6 +23,8 @@ sites:
     url: https://hash-tools.vercel.app/
   - name: Google Drive Enc
     url: https://ryuxyro.github.io/rxgd-efc/
+  - name: 9B&D Gallery
+    url: https://kazuoid.github.io/9bd-one-galery/
   - name: Portfolio 1
     url: https://adit.h4ck.me/portfolio/
   - name: Portfolio 2
