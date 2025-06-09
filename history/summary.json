@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-09": 1103,
+      "2025-06-09": 1342,
       "2025-06-08": 1440,
       "2025-06-07": 374
     }
@@ -458,18 +458,20 @@
     "url": "https://download.safefileku.com/file/aRgzuragzItxb9h4/image1.jpeg/download?hash=cygK8SbTH3vZxDIcJR_Vzw&expire=1749506860&v=2",
     "icon": "https://icons.duckduckgo.com/ip3/download.safefileku.com.ico",
     "slug": "safefileku-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1221,
-    "timeDay": 1221,
-    "timeWeek": 1221,
-    "timeMonth": 1221,
-    "timeYear": 1221,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
+    "dailyMinutesDown": {
+      "2025-06-09": 0
+    }
   },
   {
     "name": "safefileku 1",
@@ -488,7 +490,7 @@
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-06-09": 1
+      "2025-06-09": 240
     }
   }
 ]
