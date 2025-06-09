@@ -45,6 +45,8 @@ sites:
     url: http://epizy.my.id
   - name: v6 (blank)
     url: http://kazuoyuuka.xyz/
+  - name: v7 (blank)
+    url: http://ngulikteknologi.my.id/
   - name: upptime 1
     url: https://kazuoid.github.io/upptime/
   - name: upptime 2
