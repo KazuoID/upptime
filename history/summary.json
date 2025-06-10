@@ -173,7 +173,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 121,
+    "timeDay": 128,
     "timeWeek": 152,
     "timeMonth": 152,
     "timeYear": 152,
@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-10": 1066,
+      "2025-06-10": 1067,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 374
@@ -388,11 +388,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ngulikteknologi.my.id.ico",
     "slug": "v7-blank",
     "status": "down",
-    "uptime": "66.68%",
-    "uptimeDay": "60.41%",
-    "uptimeWeek": "66.68%",
-    "uptimeMonth": "66.68%",
-    "uptimeYear": "66.68%",
+    "uptime": "66.67%",
+    "uptimeDay": "60.39%",
+    "uptimeWeek": "66.67%",
+    "uptimeMonth": "66.67%",
+    "uptimeYear": "66.67%",
     "time": 323,
     "timeDay": 296,
     "timeWeek": 323,
@@ -473,7 +473,7 @@
     "timeMonth": 390,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2025-06-10": 1066,
+      "2025-06-10": 1067,
       "2025-06-09": 98
     }
   },
@@ -494,7 +494,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-06-10": 1066,
+      "2025-06-10": 1067,
       "2025-06-09": 338
     }
   },
