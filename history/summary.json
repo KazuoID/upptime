@@ -130,19 +130,19 @@
     "url": "https://moe-count.glitch.me/",
     "icon": "https://icons.duckduckgo.com/ip3/moe-count.glitch.me.ico",
     "slug": "moe-counting",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4009,
     "timeDay": 6694,
     "timeWeek": 4667,
     "timeMonth": 4009,
     "timeYear": 4009,
     "dailyMinutesDown": {
-      "2025-07-04": 11
+      "2025-07-04": 1
     }
   },
   {
@@ -306,7 +306,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-04": 1016,
+      "2025-07-04": 1033,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -425,7 +425,7 @@
     "timeMonth": 323,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-07-04": 1016,
+      "2025-07-04": 1033,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -523,7 +523,7 @@
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-07-04": 1016,
+      "2025-07-04": 1033,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -568,7 +568,7 @@
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2025-07-04": 1016,
+      "2025-07-04": 1033,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -613,7 +613,7 @@
     "timeMonth": 593,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-07-04": 1016,
+      "2025-07-04": 1033,
       "2025-07-03": 1416,
       "2025-07-02": 1440,
       "2025-07-01": 1402,
