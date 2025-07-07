@@ -41,7 +41,7 @@ sites:
     url: https://movaware.my.id
   - name: v4 (blank)
     url: http://exemova.xyz
-  - name: v5 (blank)
+  - name: v5 ads-web
     url: http://epizy.my.id
   - name: v6 (blank)
     url: http://kazuoyuuka.xyz/
@@ -53,12 +53,20 @@ sites:
     url: https://ryuxyro.github.io/status/
   - name: upptime 3
     url: https://kazuoid.github.io/upptime-v2/
-  - name: safefileku 2
-    url: https://download.safefileku.com/file/aRgzuragzItxb9h4/image1.jpeg/download?hash=cygK8SbTH3vZxDIcJR_Vzw&expire=1749506860&v=2
-  - name: safefileku 1
-    url: https://safefileku.com/download/aRgzuragzItxb9h4
-  - name: safelinku 1
-    url: https://sfl.gl/dAxqCAkZ
+  - name: bot-v1
+    url: http://epizy.my.id
+  - name: bot-v2
+    url: http://epizy.my.id
+  - name: bot-v3
+    url: http://epizy.my.id
+  - name: bot-v4
+    url: http://epizy.my.id
+  - name: bot-v5
+    url: http://epizy.my.id
+  - name: bot-v6
+    url: http://epizy.my.id
+  - name: bot-v7
+    url: http://epizy.my.id
  # - name: Portfolio 2
    # url: https://adit.zone.id/
 
