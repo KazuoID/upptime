@@ -22,10 +22,10 @@
     "url": "https://adit.h4ck.me/linktree/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.h4ck.me.ico",
     "slug": "link-tree-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 805,
@@ -33,17 +33,19 @@
     "timeWeek": 644,
     "timeMonth": 895,
     "timeYear": 805,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 1
+    }
   },
   {
     "name": "MovaLery (MovaWare Gallery)",
     "url": "https://adit.kak.si/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.kak.si.ico",
     "slug": "mova-lery-mova-ware-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 818,
@@ -51,7 +53,9 @@
     "timeWeek": 648,
     "timeMonth": 755,
     "timeYear": 818,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 1
+    }
   },
   {
     "name": "3D Object testing",
@@ -131,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moe-count.glitch.me.ico",
     "slug": "moe-counting",
     "status": "down",
-    "uptime": "81.80%",
+    "uptime": "80.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.87%",
-    "uptimeMonth": "77.89%",
-    "uptimeYear": "81.80%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "75.80%",
+    "uptimeYear": "80.42%",
     "time": 4267,
     "timeDay": 85,
-    "timeWeek": 170,
+    "timeWeek": 181,
     "timeMonth": 3565,
     "timeYear": 4267,
     "dailyMinutesDown": {
-      "2025-07-15": 126,
+      "2025-07-15": 1041,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -232,10 +236,10 @@
     "url": "https://adit.h4ck.me/portfolio/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.h4ck.me.ico",
     "slug": "portfolio-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
@@ -243,17 +247,19 @@
     "timeWeek": 410,
     "timeMonth": 418,
     "timeYear": 405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 1
+    }
   },
   {
     "name": "Portfolio 2",
     "url": "https://adit.zone.id/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.zone.id.ico",
     "slug": "portfolio-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 771,
@@ -261,7 +267,9 @@
     "timeWeek": 868,
     "timeMonth": 851,
     "timeYear": 771,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 1
+    }
   },
   {
     "name": "bonus",
@@ -286,10 +294,10 @@
     "url": "https://adit.is-a-good.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.is-a-good.dev.ico",
     "slug": "v1-blank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 502,
@@ -297,7 +305,9 @@
     "timeWeek": 512,
     "timeMonth": 514,
     "timeYear": 502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 1
+    }
   },
   {
     "name": "v2 (blank)",
@@ -316,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-15": 126,
+      "2025-07-15": 1041,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -435,18 +445,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ngulikteknologi.my.id.ico",
     "slug": "v7-blank",
     "status": "down",
-    "uptime": "2.23%",
+    "uptime": "2.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.23%",
+    "uptimeYear": "2.19%",
     "time": 323,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-07-15": 126,
+      "2025-07-15": 1041,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
