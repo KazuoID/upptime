@@ -22,18 +22,19 @@
     "url": "https://adit.h4ck.me/linktree/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.h4ck.me.ico",
     "slug": "link-tree-v2",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 784,
     "timeDay": 481,
     "timeWeek": 623,
     "timeMonth": 808,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2025-07-18": 1,
       "2025-07-15": 20
     }
   },
@@ -42,18 +43,19 @@
     "url": "https://adit.kak.si/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.kak.si.ico",
     "slug": "mova-lery-mova-ware-gallery",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 801,
     "timeDay": 601,
     "timeWeek": 656,
     "timeMonth": 750,
     "timeYear": 801,
     "dailyMinutesDown": {
+      "2025-07-18": 1,
       "2025-07-15": 20
     }
   },
@@ -135,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moe-count.glitch.me.ico",
     "slug": "moe-counting",
     "status": "down",
-    "uptime": "75.66%",
+    "uptime": "74.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.03%",
-    "uptimeYear": "75.66%",
+    "uptimeMonth": "65.46%",
+    "uptimeYear": "74.21%",
     "time": 4053,
     "timeDay": 84,
     "timeWeek": 142,
     "timeMonth": 3496,
     "timeYear": 4053,
     "dailyMinutesDown": {
-      "2025-07-18": 125,
+      "2025-07-18": 1248,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -239,11 +241,11 @@
     "url": "https://adit.h4ck.me/portfolio/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.h4ck.me.ico",
     "slug": "portfolio-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 403,
     "timeDay": 325,
@@ -251,6 +253,7 @@
     "timeMonth": 422,
     "timeYear": 403,
     "dailyMinutesDown": {
+      "2025-07-18": 1,
       "2025-07-15": 20
     }
   },
@@ -259,11 +262,11 @@
     "url": "https://adit.zone.id/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.zone.id.ico",
     "slug": "portfolio-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 763,
     "timeDay": 682,
@@ -271,6 +274,7 @@
     "timeMonth": 839,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2025-07-18": 1,
       "2025-07-15": 20
     }
   },
@@ -297,18 +301,19 @@
     "url": "https://adit.is-a-good.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/adit.is-a-good.dev.ico",
     "slug": "v1-blank",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 499,
     "timeDay": 430,
     "timeWeek": 521,
     "timeMonth": 522,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2025-07-18": 1,
       "2025-07-15": 20
     }
   },
@@ -329,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-18": 125,
+      "2025-07-18": 1248,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -378,10 +383,10 @@
     "url": "https://movaware.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/movaware.my.id.ico",
     "slug": "v3-blank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 626,
@@ -389,17 +394,19 @@
     "timeWeek": 598,
     "timeMonth": 581,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 1
+    }
   },
   {
     "name": "v4 (blank)",
     "url": "http://exemova.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/exemova.xyz.ico",
     "slug": "v4-blank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 914,
@@ -407,17 +414,19 @@
     "timeWeek": 663,
     "timeMonth": 715,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 1
+    }
   },
   {
     "name": "v5 ads-web",
     "url": "http://epizy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/epizy.my.id.ico",
     "slug": "v5-ads-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
@@ -425,16 +434,18 @@
     "timeWeek": 550,
     "timeMonth": 545,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 1
+    }
   },
   {
     "name": "v6 (blank)",
     "url": "http://kazuoyuuka.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/kazuoyuuka.xyz.ico",
     "slug": "v6-blank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -443,7 +454,9 @@
     "timeWeek": 733,
     "timeMonth": 764,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "v7 (blank)",
@@ -451,18 +464,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ngulikteknologi.my.id.ico",
     "slug": "v7-blank",
     "status": "down",
-    "uptime": "2.06%",
+    "uptime": "2.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.06%",
+    "uptimeYear": "2.02%",
     "time": 323,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-07-18": 125,
+      "2025-07-18": 1248,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -562,9 +575,9 @@
     "url": "http://epizy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/epizy.my.id.ico",
     "slug": "bot-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -573,16 +586,18 @@
     "timeWeek": 131,
     "timeMonth": 155,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "bot-v2",
     "url": "http://epizy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/epizy.my.id.ico",
     "slug": "bot-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -591,16 +606,18 @@
     "timeWeek": 130,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "bot-v3",
     "url": "http://epizy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/epizy.my.id.ico",
     "slug": "bot-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -609,16 +626,18 @@
     "timeWeek": 131,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "bot-v4",
     "url": "http://epizy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/epizy.my.id.ico",
     "slug": "bot-v4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -627,16 +646,18 @@
     "timeWeek": 131,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "bot-v5",
     "url": "http://epizy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/epizy.my.id.ico",
     "slug": "bot-v5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -645,16 +666,18 @@
     "timeWeek": 131,
     "timeMonth": 130,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "bot-v6",
     "url": "http://epizy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/epizy.my.id.ico",
     "slug": "bot-v6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -663,16 +686,18 @@
     "timeWeek": 130,
     "timeMonth": 155,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "bot-v7",
     "url": "http://epizy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/epizy.my.id.ico",
     "slug": "bot-v7",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -681,6 +706,8 @@
     "timeWeek": 176,
     "timeMonth": 156,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   }
 ]
