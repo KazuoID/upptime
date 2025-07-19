@@ -4,19 +4,19 @@
     "url": "https://my-list-one.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/my-list-one.vercel.app.ico",
     "slug": "link-tree-v1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 150,
-    "timeWeek": 135,
+    "timeDay": 136,
+    "timeWeek": 133,
     "timeMonth": 131,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-07-19": 1
+      "2025-07-19": 7
     }
   },
   {
@@ -140,7 +140,7 @@
     "uptime": "72.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.31%",
+    "uptimeMonth": "62.29%",
     "uptimeYear": "72.50%",
     "time": 3990,
     "timeDay": 309,
@@ -148,7 +148,7 @@
     "timeMonth": 3471,
     "timeYear": 3990,
     "dailyMinutesDown": {
-      "2025-07-19": 1190,
+      "2025-07-19": 1197,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -170,19 +170,19 @@
     "url": "https://encyrpt-language.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/encyrpt-language.vercel.app.ico",
     "slug": "encyrpt-language",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 94,
-    "timeWeek": 110,
-    "timeMonth": 117,
+    "timeDay": 92,
+    "timeWeek": 108,
+    "timeMonth": 116,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-07-19": 1
+      "2025-07-19": 7
     }
   },
   {
@@ -190,19 +190,19 @@
     "url": "https://hash-tools.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/hash-tools.vercel.app.ico",
     "slug": "hash-tools",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 127,
-    "timeDay": 323,
-    "timeWeek": 169,
+    "timeDay": 223,
+    "timeWeek": 164,
     "timeMonth": 120,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-07-19": 1
+      "2025-07-19": 7
     }
   },
   {
@@ -336,7 +336,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-19": 1190,
+      "2025-07-19": 1197,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -470,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-07-19": 1190,
+      "2025-07-19": 1197,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
