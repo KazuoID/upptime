@@ -6,17 +6,17 @@
     "slug": "link-tree-v1",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 148,
+    "time": 147,
     "timeDay": 119,
     "timeWeek": 112,
     "timeMonth": 160,
-    "timeYear": 148,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-08-27": 19,
+      "2025-08-27": 20,
       "2025-07-28": 16
     }
   },
@@ -140,18 +140,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moe-count.glitch.me.ico",
     "slug": "moe-counting",
     "status": "down",
-    "uptime": "37.74%",
+    "uptime": "37.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.74%",
+    "uptimeYear": "37.68%",
     "time": 2460,
     "timeDay": 60,
     "timeWeek": 102,
     "timeMonth": 147,
     "timeYear": 2460,
     "dailyMinutesDown": {
-      "2025-08-27": 331,
+      "2025-08-27": 508,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -212,11 +212,11 @@
     "url": "https://encyrpt-language.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/encyrpt-language.vercel.app.ico",
     "slug": "encyrpt-language",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 141,
     "timeDay": 252,
@@ -224,7 +224,7 @@
     "timeMonth": 145,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-08-27": 19
+      "2025-08-27": 20
     }
   },
   {
@@ -232,9 +232,9 @@
     "url": "https://hash-tools.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/hash-tools.vercel.app.ico",
     "slug": "hash-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "98.65%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -244,7 +244,7 @@
     "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-08-27": 19
+      "2025-08-27": 20
     }
   },
   {
@@ -381,7 +381,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-27": 331,
+      "2025-08-27": 508,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -551,18 +551,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ngulikteknologi.my.id.ico",
     "slug": "v7-blank",
     "status": "down",
-    "uptime": "28.32%",
+    "uptime": "28.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.97%",
+    "uptimeWeek": "56.21%",
     "uptimeMonth": "68.73%",
-    "uptimeYear": "28.32%",
+    "uptimeYear": "28.27%",
     "time": 861,
     "timeDay": 0,
     "timeWeek": 643,
     "timeMonth": 944,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2025-08-27": 331,
+      "2025-08-27": 508,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1026,
