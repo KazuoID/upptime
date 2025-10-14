@@ -157,7 +157,7 @@
     "timeMonth": 164,
     "timeYear": 1704,
     "dailyMinutesDown": {
-      "2025-10-14": 1254,
+      "2025-10-14": 1260,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -446,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-14": 1254,
+      "2025-10-14": 1260,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -583,19 +583,19 @@
     "url": "https://movaware.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/movaware.my.id.ico",
     "slug": "v3-blank",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
     "time": 609,
-    "timeDay": 410,
-    "timeWeek": 518,
+    "timeDay": 457,
+    "timeWeek": 521,
     "timeMonth": 554,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-10-14": 0,
+      "2025-10-14": 6,
       "2025-09-20": 27,
       "2025-08-07": 61
     }
@@ -684,7 +684,7 @@
     "timeMonth": 0,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2025-10-14": 1254,
+      "2025-10-14": 1260,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
