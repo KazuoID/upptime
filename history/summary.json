@@ -157,7 +157,7 @@
     "timeMonth": 167,
     "timeYear": 1644,
     "dailyMinutesDown": {
-      "2025-10-20": 468,
+      "2025-10-20": 476,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -401,18 +401,20 @@
     "url": "https://www.ryuxyro.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.ryuxyro.my.id.ico",
     "slug": "bonus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 494,
-    "timeWeek": 3691,
-    "timeMonth": 1330,
-    "timeYear": 648,
-    "dailyMinutesDown": {}
+    "time": 774,
+    "timeDay": 10317,
+    "timeWeek": 5336,
+    "timeMonth": 1900,
+    "timeYear": 774,
+    "dailyMinutesDown": {
+      "2025-10-20": 1
+    }
   },
   {
     "name": "v1 (blank)",
@@ -453,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 468,
+      "2025-10-20": 476,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -696,7 +698,7 @@
     "timeMonth": 0,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2025-10-20": 468,
+      "2025-10-20": 476,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
