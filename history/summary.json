@@ -121,19 +121,19 @@
     "url": "https://cloud2.ryuxyro.workers.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud2.ryuxyro.workers.dev.ico",
     "slug": "cloud-service-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "88.66%",
-    "uptimeWeek": "98.38%",
+    "uptimeDay": "88.61%",
+    "uptimeWeek": "98.37%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.93%",
-    "time": 445,
-    "timeDay": 367,
-    "timeWeek": 489,
-    "timeMonth": 409,
-    "timeYear": 445,
+    "time": 444,
+    "timeDay": 336,
+    "timeWeek": 463,
+    "timeMonth": 403,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2025-11-18": 163
+      "2025-11-18": 164
     }
   },
   {
@@ -173,7 +173,7 @@
     "timeMonth": 312,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2025-11-18": 882,
+      "2025-11-18": 893,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -512,7 +512,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 882,
+      "2025-11-18": 893,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -798,7 +798,7 @@
     "timeMonth": 0,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2025-11-18": 882,
+      "2025-11-18": 893,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
