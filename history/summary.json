@@ -101,19 +101,19 @@
     "url": "https://cloud.ryuxyro.workers.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.ryuxyro.workers.dev.ico",
     "slug": "cloud-service-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
-    "time": 387,
-    "timeDay": 153,
-    "timeWeek": 279,
-    "timeMonth": 305,
-    "timeYear": 387,
+    "time": 385,
+    "timeDay": 154,
+    "timeWeek": 267,
+    "timeMonth": 301,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-11-18": 60
+      "2025-11-18": 61
     }
   },
   {
@@ -122,18 +122,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud2.ryuxyro.workers.dev.ico",
     "slug": "cloud-service-v2",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.97%",
     "time": 445,
     "timeDay": 345,
     "timeWeek": 492,
     "timeMonth": 408,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-11-18": 40
+      "2025-11-18": 81
     }
   },
   {
@@ -141,19 +141,19 @@
     "url": "https://kzcloud.ryuxyro.workers.dev/0:/",
     "icon": "https://icons.duckduckgo.com/ip3/kzcloud.ryuxyro.workers.dev.ico",
     "slug": "cloud-service-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 228,
-    "timeDay": 184,
-    "timeWeek": 214,
-    "timeMonth": 233,
-    "timeYear": 228,
+    "time": 227,
+    "timeDay": 167,
+    "timeWeek": 203,
+    "timeMonth": 229,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-11-18": 39
+      "2025-11-18": 40
     }
   },
   {
@@ -173,7 +173,7 @@
     "timeMonth": 312,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2025-11-18": 758,
+      "2025-11-18": 799,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -512,7 +512,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 758,
+      "2025-11-18": 799,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -787,18 +787,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ngulikteknologi.my.id.ico",
     "slug": "v7-blank",
     "status": "down",
-    "uptime": "13.76%",
+    "uptime": "13.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.76%",
+    "uptimeYear": "13.75%",
     "time": 861,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2025-11-18": 758,
+      "2025-11-18": 799,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
