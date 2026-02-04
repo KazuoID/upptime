@@ -1,7 +1,7 @@
 url: http://epizy.my.id
-status: up
-code: 200
-responseTime: 167
-lastUpdated: 2026-02-03T23:35:40.393Z
+status: down
+code: 403
+responseTime: 100
+lastUpdated: 2026-02-04T13:45:04.773Z
 startTime: 2025-07-07T01:41:29.534Z
 generator: Upptime <https://github.com/upptime/upptime>
